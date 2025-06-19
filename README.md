@@ -12,3 +12,6 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 - Started the installation with default settings
 
 ![Screenshot of VirtualBox Download](images/download.png)
+
+📄 For full step-by-step Ubuntu installation and troubleshooting, see [notes/ubuntu-setup.md](notes/ubuntu-setup.md)
+
