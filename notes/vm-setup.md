@@ -7,6 +7,7 @@
 - RAM: 4096 MB
 - Virtual hard disk: VDI, Dynamically allocated, 25 GB
 
-![VM OS Type](images/vm-settings-type.png)
-![Memory Size](images/vm-hardware.png)
-![Disk Setup](images/vm-disk-settings.png)
+![VM OS Type](./images/vm-settings-type.png)
+![Memory Size](./images/vm-hardware.png)
+![Disk Setup](./images/vm-disk-settings.png)
+
