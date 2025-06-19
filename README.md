@@ -13,5 +13,10 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 
 ![Screenshot of VirtualBox Download](images/download.png)
 
-📄 For full step-by-step Ubuntu installation and troubleshooting, see [notes/ubuntu-setup.md](notes/ubuntu-setup.md)
+---
+
+## 📄 Full Setup & Troubleshooting Notes
+
+- 🖥️ [Step 2: Create Virtual Machine](notes/vm-setup.md)
+- 🧪 [Step 3: Ubuntu Installation & Troubleshooting](notes/ubuntu-setup.md)
 
