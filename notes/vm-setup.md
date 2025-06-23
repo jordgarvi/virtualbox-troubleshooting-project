@@ -11,4 +11,19 @@
 ![Memory Size](../images/vm-hardware.png)
 ![Disk Setup](../images/vm-disk-settings.png)
 
+---
 
+## 💿 Step 3: Attach Ubuntu ISO
+
+- Opened VirtualBox > Settings > Storage
+- Selected the empty optical drive under SATA controller
+- Clicked the disc icon and chose "Choose a disk file..."
+- Navigated to the downloaded Ubuntu ISO (`~/Downloads/ubuntu-22.04.iso`)
+- Attached the ISO to the optical drive for booting
+
+![Ubuntu ISO Attached](../images/step-3-storage-settings.png)
+
+**Notes:**
+
+- Confirmed the optical drive is higher in boot order than the hard disk (under System → Boot Order)
+- Ensured the ISO file was the correct version and not corrupted
