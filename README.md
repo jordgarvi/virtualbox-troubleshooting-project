@@ -15,8 +15,22 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 
 ---
 
-## 📄 Full Setup & Troubleshooting Notes
+## ⚙️ Step 2: Create Virtual Machine
 
 - 🖥️ [Step 2: Create Virtual Machine](notes/vm-setup.md)
-- 🧪 [Step 3: Ubuntu Installation & Troubleshooting](notes/ubuntu-setup.md)
 
+---
+
+## 💿 Step 3: Attach Ubuntu ISO
+
+- Opened VirtualBox VM settings → Storage
+- Attached `ubuntu-22.04.iso` to the virtual optical drive on SATA Port 1
+- Ensured ISO is correctly selected to boot from during VM startup
+
+![Ubuntu ISO Attached to Optical Drive](images/step-3-storage-settings.png)
+
+---
+
+## 🧪 Step 4: Ubuntu Installation & Troubleshooting
+
+- 🧪 [Step 4: Ubuntu Installation & Troubleshooting](notes/ubuntu-setup.md)
