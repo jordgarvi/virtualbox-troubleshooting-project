@@ -67,3 +67,9 @@ To save the current clean state of the system, enabling a safe rollback if issue
 - Snapshot Name: `Ubuntu Clean Install`
 - Description: Snapshot of freshly installed Ubuntu with all initial config complete.
 - Why: Acts as a safety net before networking and testing.
+
+---
+
+## 🧰 Troubleshooting Logs
+
+- 📝 [Network Adapter Fix – Ubuntu VM](notes/network-error.md)
