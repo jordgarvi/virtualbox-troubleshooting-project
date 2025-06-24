@@ -5,6 +5,16 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 
 ---
 
+## 📚 Table of Contents
+
+1. [Download and Install VirtualBox](#-step-1-download-and-install-virtualbox)
+2. [Create Virtual Machine](#-step-2-create-virtual-machine)
+3. [Attach Ubuntu ISO](#-step-3-attach-ubuntu-iso)
+4. [Ubuntu Installation & Troubleshooting](#-step-4-ubuntu-installation--troubleshooting)
+5. [Create Snapshot](#step-5-create-snapshot)
+
+---
+
 ## 📥 Step 1: Download and Install VirtualBox
 
 - Visited [virtualbox.org](https://www.virtualbox.org)
@@ -51,5 +61,3 @@ To save the current clean state of the system, enabling a safe rollback if issue
 - Snapshot Name: `Ubuntu Clean Install`
 - Description: Snapshot of freshly installed Ubuntu with all initial config complete.
 - Why: Acts as a safety net before networking and testing.
-
-
