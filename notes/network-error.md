@@ -54,17 +54,11 @@ ping: google.com: Temporary failure in name resolution
 
 ---
 
-## ✅ Outcome
-
-- Successfully simulated a network failure by disabling the virtual adapter.
-- Ubuntu clearly reported a lack of connectivity.
-- This test confirmed system-level error notifications and command-line failures.
-- Useful for practicing diagnostics and support workflows.
-
+## 🔧 Troubleshooting & Resolution
 
 ---
 
-## ✅ Step 7: Troubleshooting Network Connection
+## ✅ 4. Troubleshooting Network Connection
 
 - Opened **VirtualBox → VM Settings → Network**
 - Verified that **Adapter 1** is:
@@ -86,6 +80,3 @@ ping: google.com: Temporary failure in name resolution
 
 📷 Screenshot:  
 ![](../images/step-07-terminal-ping.png)
-
-
-
