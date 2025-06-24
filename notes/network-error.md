@@ -23,3 +23,15 @@ Simulated a network connectivity failure by disabling the adapter via VirtualBox
 📷 Screenshot:  
 ![](../images/NA-disabled.png)
 
+---
+
+## ⚠️ 3. Observe Network Failure Inside Ubuntu
+
+Once booted into Ubuntu:
+
+- A system error notification appeared, indicating a network issue.
+- The network status icon showed no connectivity.
+
+📷 Screenshot:  
+![](../images/Ubuntu-error.png)
+
