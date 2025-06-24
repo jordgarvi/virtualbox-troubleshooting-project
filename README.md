@@ -34,3 +34,22 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 ## 🧪 Step 4: Ubuntu Installation & Troubleshooting
 
 - 🧪 [Step 4: Ubuntu Installation & Troubleshooting](notes/ubuntu-setup.md)
+
+---
+
+## Step 5: Create Snapshot
+
+### 🎯 Goal
+To save the current clean state of the system, enabling a safe rollback if issues arise during later installations or testing.
+
+### 🖼️ Screenshots
+| Before Snapshot | Snapshot Dialog | Snapshot Created |
+|------------------|------------------|------------------|
+| ![](images-step-05-before-snapshot.png) | ![](images-step-05-snapshot-dialog.png) | ![](images-step-05-snapshot-created.png) |
+
+### 🗒️ Notes
+- Snapshot Name: `Ubuntu Clean Install`
+- Description: Snapshot of freshly installed Ubuntu with all initial config complete.
+- Why: Acts as a safety net before networking and testing.
+
+
