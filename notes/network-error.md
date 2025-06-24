@@ -62,3 +62,18 @@ ping: google.com: Temporary failure in name resolution
 - Useful for practicing diagnostics and support workflows.
 
 
+---
+
+## ✅ Step 7: Troubleshooting Network Connection
+
+- Opened **VirtualBox → VM Settings → Network**
+- Verified that **Adapter 1** is:
+  - Enabled ✅
+  - Set to **Bridged Adapter**
+  - Attached to host interface (e.g., Wi-Fi)
+- Saved changes and restarted VM
+
+📷 Screenshot:  
+![](../images/step-07-network-settings-after.png)
+
+
