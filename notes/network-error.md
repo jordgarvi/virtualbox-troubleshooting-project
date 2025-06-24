@@ -76,4 +76,16 @@ ping: google.com: Temporary failure in name resolution
 📷 Screenshot:  
 ![](../images/step-07-network-settings-after.png)
 
+---
+
+### ✅ Verified Internet Connectivity
+
+- Booted Ubuntu and opened terminal
+- Ran: `ping -c 3 google.com`
+- Confirmed successful replies from Google (internet is working)
+
+📷 Screenshot:  
+![](../images/step-07-terminal-ping.png)
+
+
 
