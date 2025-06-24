@@ -45,7 +45,7 @@ To save the current clean state of the system, enabling a safe rollback if issue
 ### 🖼️ Screenshots
 | Before Snapshot | Snapshot Dialog | Snapshot Created |
 |------------------|------------------|------------------|
-| ![](images-step-05-before-snapshot.png) | ![](images-step-05-snapshot-dialog.png) | ![](images-step-05-snapshot-created.png) |
+| ![](images/step-05-before-snapshot.png) | ![](images/step-05-snapshot-dialog.png) | ![](images/step-05-snapshot-created.png) |
 
 ### 🗒️ Notes
 - Snapshot Name: `Ubuntu Clean Install`
