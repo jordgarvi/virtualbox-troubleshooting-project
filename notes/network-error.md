@@ -3,4 +3,4 @@
 Captured the enabled state of the network adapter in VirtualBox **before booting Ubuntu**.
 
 📷 Screenshot:  
-`images/NA-enabled.png`
+![](images/NA-enabled.png)
