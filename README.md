@@ -15,6 +15,12 @@ To demonstrate the setup, configuration, and troubleshooting of VirtualBox for v
 
 ---
 
+## 🧪 Lab Notes
+
+- [Simulated Network Adapter Failure – Ubuntu VM](notes/network-error.md)
+
+---
+
 ## 📥 Step 1: Download and Install VirtualBox
 
 - Visited [virtualbox.org](https://www.virtualbox.org)
